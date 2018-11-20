@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Constructor hangman game for Tec de Monterrey Coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcervantesm/constructor-hangman.git"
+  },
+  "author": "Luis Cervantes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcervantesm/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/lcervantesm/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
